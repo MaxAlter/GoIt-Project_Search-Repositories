@@ -1,0 +1,96 @@
+.list {
+  padding: 0;
+  list-style: none;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.list_item {
+  display: flex;
+  margin: 30px 0;
+  padding: 25px;
+  box-shadow: 0 0 10px 5px rgb(190, 190, 190);
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(90, 90, 90);
+}
+
+.exposition_name {
+  list-style: none;
+  width: 100%;
+  padding-left: 20px;
+}
+
+.list_name,
+.list_login,
+.list_language,
+.list_description {
+  padding: 0;
+  display: flex;
+}
+
+.item_name,
+.item_login,
+.item_language,
+.item_description {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.list_name_item,
+.list_login_item,
+.list_language_item,
+.list_description_item {
+  margin: 0;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.list_name_item {
+  margin: 0;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.list_login_item {
+  padding-left: 35px;
+}
+
+.list_language_item {
+  padding-left: 15px;
+}
+.list_description_item {
+  padding-left: 4px;
+}
+
+.exposition_like {
+  list-style: none;
+  position: relative;
+  padding: 30px 10px 10px 30px;
+  width: 170px;
+}
+
+.list_watchers {
+  padding-bottom: 20px;
+}
+
+.list_star_count::before,
+.list_watchers::before {
+  position: absolute;
+  content: "";
+  display: block;
+  height: 24px;
+  width: 24px;
+  left: 0;
+}
+
+.list_watchers::before {
+  background-image: url(../../icons/star.png);
+}
+
+.list_star_count::before {
+  background-image: url(../../icons/user.png);
+}
