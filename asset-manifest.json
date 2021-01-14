@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GoIt-Project_Search-Repositories/static/css/main.99bc699b.chunk.css",
+    "main.js": "/GoIt-Project_Search-Repositories/static/js/main.949e2f3e.chunk.js",
+    "main.js.map": "/GoIt-Project_Search-Repositories/static/js/main.949e2f3e.chunk.js.map",
+    "runtime-main.js": "/GoIt-Project_Search-Repositories/static/js/runtime-main.be8cef51.js",
+    "runtime-main.js.map": "/GoIt-Project_Search-Repositories/static/js/runtime-main.be8cef51.js.map",
+    "static/js/2.f8db1e11.chunk.js": "/GoIt-Project_Search-Repositories/static/js/2.f8db1e11.chunk.js",
+    "static/js/2.f8db1e11.chunk.js.map": "/GoIt-Project_Search-Repositories/static/js/2.f8db1e11.chunk.js.map",
+    "index.html": "/GoIt-Project_Search-Repositories/index.html",
+    "static/css/main.99bc699b.chunk.css.map": "/GoIt-Project_Search-Repositories/static/css/main.99bc699b.chunk.css.map",
+    "static/js/2.f8db1e11.chunk.js.LICENSE.txt": "/GoIt-Project_Search-Repositories/static/js/2.f8db1e11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be8cef51.js",
+    "static/js/2.f8db1e11.chunk.js",
+    "static/css/main.99bc699b.chunk.css",
+    "static/js/main.949e2f3e.chunk.js"
+  ]
+}
